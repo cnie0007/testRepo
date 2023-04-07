@@ -11,6 +11,8 @@ Atrek::Atrek()
 
 	int teestInt = 0;
 
+	int testAanotherInt = 10;
+
 }
 
 // Called when the game starts or when spawned
